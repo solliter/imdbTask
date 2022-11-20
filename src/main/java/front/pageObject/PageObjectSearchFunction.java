@@ -102,7 +102,7 @@ public class PageObjectSearchFunction extends BasePage{
         return moreTitlesMatchesBtnFind;
     }
 
-    //2 pages here one is with less movies result, if we get this page we btn More title matches
+    //2 pages here one is with less movies result, if we get this page we click btn More title matches
     @Step("Clicking movie result title")
     public void movieTitleClick(String movie) {
         try{
