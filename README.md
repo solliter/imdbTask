@@ -6,19 +6,26 @@ Framework Used: Page Object Model
 
 Instructions on how to run tests
 
+
 To run autotests need to install maven and java
 
+
 how to install maven https://maven.apache.org/install.html
+
 how to install java https://www.java.com/en/download/help/download_options.html  
+
 Java i used 19.0.1
 
 To get reports in allure
 
+
 Install last version of allure coomandline https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline
+
 how to install allure https://docs.qameta.io/allure/#_installing_a_commandline
 
 
 1.Easiest way open tests in IDE, run TechTaskTest class
+
 2.Type in console mvn clean test (in IDE) or in concole where pom file is.
 
 To get reports
