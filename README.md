@@ -9,11 +9,9 @@ Instructions on how to run tests
 
 To run autotests need to install maven and java
 
-
-how to install maven https://maven.apache.org/install.html
+how to install maven https://maven.apache.org/install.html 
 
 how to install java https://www.java.com/en/download/help/download_options.html  
-
 Java i used 19.0.1
 
 To get reports in allure
